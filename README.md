@@ -1,2 +1,2 @@
 # delta_demo
-ths is webdev
+ths is demo for git.
